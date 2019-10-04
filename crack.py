@@ -1,3 +1,4 @@
+# This program crack a cipher and use dynamic programming to infer spaces in a string.
 from math import log, sqrt
 
 
