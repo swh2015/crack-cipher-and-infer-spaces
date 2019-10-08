@@ -1,4 +1,8 @@
 # This program crack a cipher and use dynamic programming to infer spaces in a string.
+######################### I M P O R T A N T ##################################
+###### You must upload a document named a4-words-by-frequency.txt ############
+###### that lists words in a given language. #################################
+##############################################################################
 from math import log, sqrt
 
 
